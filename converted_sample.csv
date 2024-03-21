@@ -1,0 +1,4 @@
+client_id,name,email,phone,account_id,type,balance,card_id,card_type,expiry_date,credit_limit
+1,Alex Green,alexgreen@company.com,971581234567,1234567,Credit,50000,1234567890,Primary,20-07-2027,100000
+2,Osama Bany Hamad,osama@gmail.com,962779968675,1234567,Credit,50000,2234567891,Supplementary,15-05-2025,50000
+3,Ali Bany Hamad,ali@gmail.com,962776637215,2234568,Savings,15000,3234567892,Primary,12-03-2024,50000

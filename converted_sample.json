@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "name": "Alex Green",
+        "email": "alexgreen@company.com",
+        "phone": "971581234567",
+        "accounts": [
+            {
+                "id": "1234567",
+                "type": "Credit",
+                "balance": "50000",
+                "cards": [
+                    {
+                        "id": "1234567890",
+                        "type": "Primary",
+                        "expiry_date": "20-07-2027",
+                        "credit_limit": "100000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Osama Bany Hamad",
+        "email": "osama@gmail.com",
+        "phone": "962779968675",
+        "accounts": [
+            {
+                "id": "1234567",
+                "type": "Credit",
+                "balance": "50000",
+                "cards": [
+                    {
+                        "id": "2234567891",
+                        "type": "Supplementary",
+                        "expiry_date": "15-05-2025",
+                        "credit_limit": "50000"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Ali Bany Hamad",
+        "email": "ali@gmail.com",
+        "phone": "962776637215",
+        "accounts": [
+            {
+                "id": "2234568",
+                "type": "Savings",
+                "balance": "15000",
+                "cards": [
+                    {
+                        "id": "3234567892",
+                        "type": "Primary",
+                        "expiry_date": "12-03-2024",
+                        "credit_limit": "50000"
+                    }
+                ]
+            }
+        ]
+    }
+]
